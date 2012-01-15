@@ -1,0 +1,7 @@
+renames: 
+  - notch: 
+    wecui: deobf
+  - notch: wecui.com.yetanotherx.\1
+    wecui: com.yetanotherx.(.*)
+  - notch: wecui.org.yaml.\1
+    wecui: org.yaml.(.*)

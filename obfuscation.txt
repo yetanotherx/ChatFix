@@ -1,0 +1,22 @@
+renames:
+  - notch: do
+    wecui: doclass
+    packageOnly: false
+  - notch: if
+    wecui: ifclass
+    packageOnly: false
+  - notch: uh
+    wecui: EntityPlayerSP
+    packageOnly: false
+  - notch: wm
+    wecui: GuiChat
+    packageOnly: false
+  - notch: ug
+    wecui: GuiScreen
+    packageOnly: false
+  - notch: ads
+    wecui: KeyBinding
+    packageOnly: false
+  - notch: agq
+    wecui: GuiIngame
+    packageOnly: false
